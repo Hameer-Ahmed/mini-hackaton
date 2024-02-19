@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: lightgray;
+}
+.header {
+  background-color: white;
+  padding: 10px 15px;
+  width: 85%;
+  margin: auto;
+}
+
+.cards {
+  margin: 20px;
+}
+
+.book-now {
+  background-color: brown;
+  border-radius: 10px;
+  color: #fff !important;
+}
+
+.footer {
+  background-color: bisque;
+  margin: 20px;
+  padding: 20px;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.heading {
+  text-align: center;
+  height: 200px;
+  padding: 20px;
+  margin: 30px;
+}
+.card .icon-wrapper {
+  text-align: right;
+}
+.footer-2 {
+  text-align: center;
+  background-color: black;
+  color: #fff;
+  height: 80px;
+  align-items: center;
+  padding-top: 20px;
+}
